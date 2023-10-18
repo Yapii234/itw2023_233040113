@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: 1500px 200px;
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Comic Sans MS';
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+
+#p1 {
+    color: rgb(148, 148, 5);
+    text-align: center;
+    font-style: Bold;
+    width: auto;
+    height: auto;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+#p2 {
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-style: bold;
+    font-size: 16px;
+    width: auto;
+    height: auto;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#Yafi{
+    color: brown;
+}
+
+#Yafi:hover{
+    color: blue;
+}
+
+#Mark{
+    color: blue;
+}
+
+#Mark:hover{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
