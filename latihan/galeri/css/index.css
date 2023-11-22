@@ -1,7 +1,7 @@
 body {
     font: 18px/36px, arial, sans-serif;
     background-color: #ddd;
-    background-image: url(/img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
